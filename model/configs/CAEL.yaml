@@ -1,0 +1,28 @@
+
+model:
+  image-size: 224
+  num-classes: 2
+  level2-num-classes: 3
+  level3-num-classes: 5
+  depth: 4              # number of multi-scale encoding blocks
+  fg-dim: 192            # high res dimension
+  fg-patch-size: 7      # high res patch size (should be smaller than lg-patch-size)
+  fg-enc-depth: 2        # high res depth
+  fg-enc-dim-head: 64
+  fg-enc-heads: 8        # high res heads
+  fg-enc-mlp-dim: 2048   # high res feedforward dimension
+  cg-dim: 384            # low res dimension
+  cg-patch-size: 56      # low res patch size
+  cg-enc-depth: 3        # low res depth
+  cg-enc-dim-head: 64
+  cg-enc-heads: 8        # low res heads
+  cg-enc-mlp-dim: 2048   # low res feedforward dimensions
+  cross-attn-depth: 2    # cross attention rounds
+  cross-ae-attn-depth: 2
+  cross-attn-dim-head: 64    
+  cross-attn-heads: 8    # cross attention heads
+  cg-channels: 24
+  fg-channels: 1280
+  dropout: 0.15
+  emb-dropout: 0.15
+  
