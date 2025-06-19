@@ -63,9 +63,8 @@ GenFace
 ## Evaluate
 
 ## Citation
-
-```bibtex
 If you find this work useful for your research, please consider citing the following:
+```bibtex
 @article{GenFace,
   author={Zhang, Yaning and Yu, Zitong and Wang, Tianyi and Huang, Xiaobin and Shen, Linlin and Gao, Zan and Ren, Jianfeng},
   journal={IEEE Transactions on Information Forensics and Security}, 
