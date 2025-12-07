@@ -61,7 +61,13 @@ GenFace
 - All images of the GenFace dataset are obtained from the Internet which are not property of our institutions. Our institutions are not responsible for the content nor the meaning of these images.
 - You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
 - You agree not to further copy, publish or distribute any portion of the GenFace dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
-- 
+  
+## Download
+If you would like to access the GenFace dataset, you could download the dataset using <a href="https://pan.baidu.com/s/1hlC8g-N5piftSxIJ5QFk5A">
+   Baidu Drive 
+  </a>.
+
+
 ## Train
 
 
